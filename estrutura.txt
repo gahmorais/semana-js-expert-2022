@@ -1,0 +1,6 @@
+service = tudo que é regra de negocios ou processamnento
+controller = intermedirar a camada de apresentação e a camada de negocios
+router = camada de apresentação
+server = responsável por criar o servidor (mas não instancia)
+index = instancia o servidor e expoe para a web(lado da infraestrutura)
+config = tudo que fox estático do projeto
